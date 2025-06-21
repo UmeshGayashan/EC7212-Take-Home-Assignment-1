@@ -22,6 +22,7 @@ Reduce the number of intensity levels in an image from 256 to a specified value 
 
 - **RGB**
 
+    Image shown with 4 intensity levels per channel
   ![Intensity Level 4 (RGB)](./Assets/IntensityLevel4RGB.png)
 
 - **Intensity Level Collection (Grayscale)**
